@@ -26,12 +26,12 @@ Our team want to make a console project similar to the portal. The peculiarity o
 
 <br>3)Attendance:
 <br>The administrator has the ability to check if the student has registered
-![Use_Case_Diagram](https://github.com/Abylaikhanaaaaa/DataPirates/blob/main/Usecase-1.png)
 
 <h3>About Use Case Diagram</h3>
+
 ![Use_Case_Diagram](https://github.com/Abylaikhanaaaaa/DataPirates/blob/main/Usecase-1.png)
 
-<br>Admin Functionalities:</br>
+<br>Admin </br>
  Admin is a person who run and manage the system, in this project the owner or director of the school has rights of admin. The Admin creates the structure of a system to creating standard and classroom.
 <li>Add Standerd</li>
 <li>Add Division / Classroom</li>
