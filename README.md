@@ -18,12 +18,12 @@ Our team want to make a console project similar to the portal. The peculiarity o
 <br>10) Will this data be saved?</br>
 # Description
 
-1)Registration and authorization of students
-students are given a form to determine which faculty they want to enter
+<br>1)Registration and authorization of students:
+<br>students are given a form to determine which faculty they want to enter
 
-2)Student profile
-Students who have registered can see information about themselves
+<br>2)Student profile:
+<br>Students who have registered can see information about themselves
 
-3)Attendance
-The administrator has the ability to check if the student has registered
+<br>3)Attendance:
+<br>The administrator has the ability to check if the student has registered
 ![Use_Case_Diagram](https://github.com/Abylaikhanaaaaa/DataPirates/blob/main/Usecase-1.png)
