@@ -8,11 +8,11 @@ Our team want to make a console project similar to the portal. The peculiarity o
 <br>2)Type of the user-interface:Console application</br>
  <br> 3) What is the main goal of creating the portal?</br>
 <br>4) Is this goal realistic?</br>
-<br>5) What happens if the goals are not met on time? What is the plan of action?
-4) Is the project planned well enough?
-5) Who will mostly use the application?
-6) How many students per day are you counting on?
-7) What happens if the goals are not met on time? What is the plan of action?
-8) What will you be able to watch in it?
-9) Where will the data come from?
-10) Will this data be saved?</br>
+<br>5) What happens if the goals are not met on time? What is the plan of action?</br>
+<br>6) Is the project planned well enough?</br>
+<br>7) Who will mostly use the application?</br>
+<br>8) How many students per day are you counting on?<br8>
+<br>9) What happens if the goals are not met on time? What is the plan of action?</br>
+<br>10) What will you be able to watch in it?
+<br>11) Where will the data come from?</br>
+<br>12) Will this data be saved?</br>
