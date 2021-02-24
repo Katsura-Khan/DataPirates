@@ -16,6 +16,11 @@ Our team want to make a console project similar to the portal. The peculiarity o
 <br>8) What will you be able to watch in it?
 <br>9) Where will the data come from?</br>
 <br>10) Will this data be saved?</br>
+<br>11) How are you going to interact multiple tables together?</br>
+<br>12) How many features will your application have?</br>
+<br>13) What data will you use?</br>
+<br>14) What data can the user see?</br>
+<br>15) What privileges will admins and employees have??</br>
 # Description
 
 <br>1)Registration and authorization of students:
