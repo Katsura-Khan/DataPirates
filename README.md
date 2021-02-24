@@ -16,7 +16,7 @@ Our team want to make a console project similar to the portal. The peculiarity o
 <br>8) What will you be able to watch in it?
 <br>9) Where will the data come from?</br>
 <br>10) Will this data be saved?</br>
-# Functions
+# Description
 
 1)Registration and authorization of students
 students are given a form to determine which faculty they want to enter
