@@ -29,6 +29,21 @@ Our team want to make a console project similar to the portal. The peculiarity o
 ![Use_Case_Diagram](https://github.com/Abylaikhanaaaaa/DataPirates/blob/main/Usecase-1.png)
 
 <h3>About Use Case Diagram</h3>
-<br>Admin Functionalities:</br>
-<li>Add Standerd</li>
+![Use_Case_Diagram](https://github.com/Abylaikhanaaaaa/DataPirates/blob/main/Usecase-1.png)
 
+<br>Admin Functionalities:</br>
+ Admin is a person who run and manage the system, in this project the owner or director of the school has rights of admin. The Admin creates the structure of a system to creating standard and classroom.
+<li>Add Standerd</li>
+<li>Add Division / Classroom</li>
+<li>Add Staff</li>
+<br>Staff</br>
+The main aim of the  system fulfill by staff. Staff can add student detail and fill the attendance daily for his division. Put a grade on the portal
+  <li>Add Student</li>
+  <li>Fill Attendance</li>
+  <li>Change Password</li>
+<br>Student</br>
+All student have unique username and password to access the system. After login into system student can view his attendance reports and manage his account. 
+  <li>Manage Account</li>
+  <li>Apply for Leave</li>
+  <li>Change Password</li>
+  
