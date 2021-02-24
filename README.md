@@ -12,7 +12,7 @@ Our team want to make a console project similar to the portal. The peculiarity o
 <br>4) Is the project planned well enough?</br>
 <br>5) Who will mostly use the application?</br>
 <br>6) How many students per day are you counting on?<br8>
-<br>7) What happens if the goals are not met on time? What is the plan of action?</br>
+<br>7) Where will you get the data?</br>
 <br>8) What will you be able to watch in it?
 <br>9) Where will the data come from?</br>
 <br>10) Will this data be saved?</br>
