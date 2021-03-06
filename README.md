@@ -52,5 +52,5 @@ All student have unique username and password to access the system. After login 
   <li>Apply for Leave</li>
   <li>Change Password</li>
   <h3>ER_Diagram</h3>
-  ![ER_Diagram]https://github.com/Abylaikhanaaaaa/DataPirates/blob/main/erdiagrm.png
-  ![ee]https://github.com/Abylaikhanaaaaa/DataPirates/blob/main/ERSymbol.png
+  ![ER_Diagram](https://github.com/Abylaikhanaaaaa/DataPirates/blob/main/erdiagrm.png)
+  ![ee](https://github.com/Abylaikhanaaaaa/DataPirates/blob/main/ERSymbol.png)
