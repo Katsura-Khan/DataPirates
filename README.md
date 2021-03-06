@@ -6,21 +6,21 @@ Our team want to make a console project similar to the portal. The peculiarity o
 <h4> About the project<h4>
 <br> Tools and Technologies used: JDK 1.8,MySQL Connector Java - 8.0.13,JDBC - 4.2,JavaFX</br>
 <br>Type of the user-interface:Console application</br>
-<br> 1) What is the main goal of creating the portal?</br>
-<br>2) Is this goal realistic?</br>
-<br>3) What happens if the goals are not met on time? What is the plan of action?</br>
-<br>4) Is the project planned well enough?</br>
+<br> 1) Can admin create an account for a teacher?</br>
+<br>2) Can a teacher change students' information?</br>
+<br>3) Can a teacher create courses?</br>
+<br>4) Can students enroll to the course?</br>
 <br>5) Who will mostly use the application?</br>
-<br>6) How many students per day are you counting on?<br8>
-<br>7) Where will you get the data?</br>
-<br>8) What will you be able to watch in it?
-<br>9) Where will the data come from?</br>
-<br>10) Will this data be saved?</br>
-<br>11) How are you going to interact multiple tables together?</br>
-<br>12) How many features will your application have?</br>
-<br>13) What data will you use?</br>
-<br>14) What data can the user see?</br>
-<br>15) What privileges will admins and employees have??</br>
+<br>6) Can admins make a list with all students with GPA> 3?<br8>
+<br>7) Can admins delete students?</br>
+<br>8) Can a teacher remove a student from a course?</br>
+<br>9) Can teachers see students who have signed up for the course?</br>
+<br>10) Can an admin delete courses?</br>
+<br>11) Can an admin withdraw students with a gpa greater than 2 for 2019?</br>
+<br>12) Can the admin withdraw students from who has the most courses in 2020?</br>
+<br>13) Can a teacher see student grades for the 2019 course?</br>
+<br>14) Can students see their GPA?</br>
+<br>15) Can admins see the list of teachers who have more than 2 courses?</br>
 # Description
 
 <br>1)Registration and authorization of students:
