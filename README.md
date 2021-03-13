@@ -9,7 +9,7 @@ Our team want to make a console project similar to the portal. The peculiarity o
 <br>1) Can admin create an account for a teacher?</br>
 <br>2) Can a teacher change students' information?</br>
 <br>3) Can a teacher create courses?</br>
-<br>4) Can students enroll to the course?</br>
+<br>4) Can teacher add students to course?</br>
 <br>5) Can admin see list of teachers?</br>
 <br>6) Can admins make a list with all students with GPA> 3?<br>
 <br>7) Can admins delete students?</br>
