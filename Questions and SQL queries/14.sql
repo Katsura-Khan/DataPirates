@@ -1,0 +1,1 @@
+Select * from StudentMst Where Name = 'Adil';

@@ -1,0 +1,1 @@
+Select * from StudentMst where GPA = 2 and Edate = YEAR('20019-7-04');

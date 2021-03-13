@@ -1,0 +1,1 @@
+Select * from ComplainMst where Name = (select Name from StaffMst);

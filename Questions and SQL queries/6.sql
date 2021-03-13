@@ -1,0 +1,1 @@
+Select * from StudentMst where GPA > 3;

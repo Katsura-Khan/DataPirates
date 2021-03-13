@@ -1,0 +1,29 @@
+1) Can admin create an account for a teacher?
+
+2) Can a teacher change students' information?
+
+3) Can a teacher create courses?
+
+4) Can students enroll to the course?
+
+5) Can admin see list of teachers?
+
+6) Can admins make a list with all students with GPA> 3?
+
+7) Can admins delete students?
+
+8) Can a teacher remove a student from a course?
+
+9) Can teachers see students who have signed up for the course?
+
+10) Can an admin delete courses?
+
+11) Can an admin withdraw students with a gpa greater than 2 for 2019?
+
+12) Can the admin withdraw students from who has the most courses in 2020?
+
+13) Can a teacher see student grades for the 2019 course?
+
+14) Can students see their GPA?
+
+15) Can admins see the list of teachers who have more than 2 courses?

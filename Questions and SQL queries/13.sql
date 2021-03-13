@@ -1,0 +1,1 @@
+Select * from studentMst where Edate = YEAR('20019-7-04');
