@@ -20,7 +20,7 @@ Our team want to make a console project similar to the portal. The peculiarity o
 <br>12) Can the admin withdraw students from who has the most courses in 2020?</br>
 <br>13) Can a teacher see student grades for the 2019 course?</br>
 <br>14) Can students see their GPA?</br>
-<br>15) Can admins see the list of complainments?</br>
+<br>15) Can admins see the list of complainments from certain teacher?</br>
 # Description
 
 <br>1)Registration and authorization of students:
