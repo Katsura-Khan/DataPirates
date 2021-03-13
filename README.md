@@ -9,7 +9,7 @@ Our team want to make a console project similar to the portal. The peculiarity o
 <br>1) Can admin create an account for a teacher?</br>
 <br>2) Can a teacher change students' information?</br>
 <br>3) Can a teacher create courses?</br>
-<br>4) Can teacher add students to course?</br>
+<br>4) Can teacher add complaint?</br>
 <br>5) Can admin see list of teachers?</br>
 <br>6) Can admins make a list with all students with GPA> 3?<br>
 <br>7) Can admins delete students?</br>
@@ -20,7 +20,7 @@ Our team want to make a console project similar to the portal. The peculiarity o
 <br>12) Can the admin withdraw students from who has the most courses in 2020?</br>
 <br>13) Can a teacher see student grades for the 2019 course?</br>
 <br>14) Can students see their GPA?</br>
-<br>15) Can admins see the list of complainments from certain teacher?</br>
+<br>15) Can admins see the list of complaints from certain teacher?</br>
 # Description
 
 <br>1)Registration and authorization of students:
