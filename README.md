@@ -6,12 +6,12 @@ Our team want to make a console project similar to the portal. The peculiarity o
 <h4> About the project<h4>
 <br> Tools and Technologies used: JDK 1.8,MySQL Connector Java - 8.0.13,JDBC - 4.2,JavaFX</br>
 <br>Type of the user-interface:Console application</br>
-<br> 1) Can admin create an account for a teacher?</br>
+<br>1) Can admin create an account for a teacher?</br>
 <br>2) Can a teacher change students' information?</br>
 <br>3) Can a teacher create courses?</br>
 <br>4) Can students enroll to the course?</br>
-<br>5) Who will mostly use the application?</br>
-<br>6) Can admins make a list with all students with GPA> 3?<br8>
+<br>5) Can admin see list of teachers?</br>
+<br>6) Can admins make a list with all students with GPA> 3?<br>
 <br>7) Can admins delete students?</br>
 <br>8) Can a teacher remove a student from a course?</br>
 <br>9) Can teachers see students who have signed up for the course?</br>
