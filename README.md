@@ -57,3 +57,13 @@ All student have unique username and password to access the system. After login 
   
   
   ![ee](https://github.com/Abylaikhanaaaaa/DataPirates/blob/main/ERSymbol.png)
+  
+  
+<h3>User-interface implementation and connection</h3>
+We chose programm language java for writing the user interface and for connecting to the database
+<br>We did not pay much attention to the design made in the style of minimalism (will change the next phase) </br>
+<br>These are screenshots </br>
+<br>Sign In</br>
+![sign in](https://github.com/Abylaikhanaaaaa/DataPirates/blob/main/phase%206/photo_2021-03-28_19-43-36.jpg)
+<br>Registration Page</br>
+![registration_page](https://github.com/Abylaikhanaaaaa/DataPirates/blob/main/phase%206/photo_2021-03-28_19-43-44.jpg)
