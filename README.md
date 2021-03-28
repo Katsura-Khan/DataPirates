@@ -60,7 +60,7 @@ All student have unique username and password to access the system. After login 
   
   
 <h3>User-interface implementation and connection</h3>
-We chose programm language java for writing the user interface and for connecting to the database
+We chose programm language java for writing the user interface and for connecting to the database.Student registration application in sdu The application was written in JavaFX and Java swing When a student registers his data is stored in the database depending on the registrations (we created different create table) '
 <br>We did not pay much attention to the design made in the style of minimalism (will change the next phase) </br>
 <br>These are screenshots </br>
 <br>Sign In</br>
