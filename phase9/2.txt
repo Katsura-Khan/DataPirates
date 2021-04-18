@@ -1,0 +1,1 @@
+SELECT st.NAME , st.Email , lm.Message , lm.Nodays FROM  StudentMst st JOIN lm LeaveMst ON st.Rollno = lm.Rollno WHERE st.City = "Astana";

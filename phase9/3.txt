@@ -1,0 +1,1 @@
+SELECT COUNT(*) FROM COMPLAINMST cp JOIN StudentMst st ON cp.Name = st.Name Where City = "Almaty" And strftime('%Y',EDate) = "2000";

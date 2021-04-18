@@ -1,0 +1,1 @@
+SELECT st.NAME , st.Mobile , cp.Message, at.Status  FROM StudentMst st  JOIN Complainmst cp ON st. name = cp.name JOIN Attendancemst at ON cp.name = at.name WHERE st.name = "Niyazbek" AND st.City = "Astana";
