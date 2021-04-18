@@ -1,0 +1,7 @@
+select studentID, Name, score
+    from student
+    where (studentID between 1 and 5 -- inclusive
+    or studentID = 8
+        or Name like '%Maximo%')
+    and sat_score NOT in (1000, 1400)
+  order by Name DESC;
