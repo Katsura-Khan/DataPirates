@@ -4,7 +4,7 @@
 # Goal of the project
 Our team want to make a console project similar to the portal. The peculiarity of our application is that it will contain data from the students of the SDU for the time being of our stream and the ability to register new people or change the data at your discretion
 <h4> About the project<h4>
-<br> Tools and Technologies used: JDK 1.8,MySQL Connector Java - 8.0.13,JDBC - 4.2,JavaFX</br>
+<br> Tools and Technologies used: JDK 1.8,PL/SQL Connector Java - 8.0.13,JDBC - 4.2,JavaFX</br>
 <br>Type of the user-interface:Console application</br>
 <br>1) Can admin create an account for a teacher?</br>
 <br>2) Can a teacher change students' information?</br>
